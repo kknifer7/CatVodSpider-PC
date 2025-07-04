@@ -1,0 +1,12 @@
+{
+  "spider": "",
+  "sites": [
+    {
+      "key": "1",
+      "name": "1",
+      "type": 3,
+      "api": "1",
+      "searchable": 1
+    }
+  ]
+}
