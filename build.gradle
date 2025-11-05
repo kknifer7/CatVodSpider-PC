@@ -37,6 +37,9 @@ dependencies {
     testImplementation "com.google.guava:guava:${dv.guava}"
     compileOnly "com.google.guava:guava:${dv.guava}"
 
+    testImplementation "org.apache.commons:commons-lang3:${dv.lang3}"
+    compileOnly "org.apache.commons:commons-lang3:${dv.lang3}"
+
     testImplementation "cn.hutool:hutool-all:${dv.hutoolAll}"
     compileOnly "cn.hutool:hutool-all:${dv.hutoolAll}"
 
